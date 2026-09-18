@@ -85,5 +85,5 @@ Things a more complete EDA would add:
 
 ## Credits
 
-- Course: **AI Ka Chilla** by Ammar Bin Tufail
+- Course: **AI Ka Chilla** by [Ammar Bin Tufail](https://github.com/AammarTufail)
 - Dataset: Student Performance data, UCI Machine Learning Repository. P. Cortez and A. Silva, *"Using Data Mining to Predict Secondary School Student Performance"*, FUBUTEC 2008.
